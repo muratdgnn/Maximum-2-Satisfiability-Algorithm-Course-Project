@@ -1,1 +1,2 @@
 # Maximum-2-Satisfiability-Algorithm-Course-Project
+Developed and implemented algorithms to solve the Maximum 2-Satisfiability (Max 2-SAT) problem, an NP-complete problem in Boolean logic. Designed a brute-force algorithm to find exact solutions and a heuristic algorithm for faster approximate results. Conducted performance analysis and experimental testing to compare accuracy and efficiency. Applied the problem to real-world use cases, including hardware design, software verification, and cryptography.
